@@ -54,8 +54,8 @@ function KAGWindow_config()
 // scWidth に画面の幅、scHeight に画面の高さをピクセル単位で指定します。
 // 標準的に使われている 640x480 や 800x600 のような画面サイズではないサイズ
 // に設定すると、フルスクリーンにできない場合があります。
-;scWidth = 640;
-;scHeight = 480;
+;scWidth = 800;
+;scHeight = 600;
 
 
 // ◆ 読みとり専用モード
