@@ -7,4 +7,10 @@
 [image storage="car" layer="base" page="back"]
 [trans method="crossfade" time="1500"]
 [wt]
+[layopt layer="message0" visible="true"]
+[wait time=200]
 画像が変わりました。
+;ここまでgitコミット
+今日もかっこいいな俺のマイカーこれでもかってぐらいの
+よおおおおおお
+それでも勝ってぐらい腹が減ったのでそろそろ行くとしますか！
