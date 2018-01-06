@@ -1,5 +1,5 @@
 [wait time=200]
-*start|ƒXƒ^[ƒg
+*start|ã‚¹ã‚¿ãƒ¼ãƒˆ
 [cm]
 [layopt layer="message0" visible="false"]
 [image storage="bike" layer="base" page="fore"]
@@ -9,8 +9,12 @@
 [wt]
 [layopt layer="message0" visible="true"]
 [wait time=200]
-‰æ‘œ‚ª•Ï‚í‚è‚Ü‚µ‚½B
-;‚±‚±‚Ü‚ÅgitƒRƒ~ƒbƒg
-¡“ú‚à‚©‚Á‚±‚¢‚¢‚È‰´‚Ìƒ}ƒCƒJ[‚±‚ê‚Å‚à‚©‚Á‚Ä‚®‚ç‚¢‚Ì
-‚æ‚¨‚¨‚¨‚¨‚¨‚¨
-‚»‚ê‚Å‚àŸ‚Á‚Ä‚®‚ç‚¢• ‚ªŒ¸‚Á‚½‚Ì‚Å‚»‚ë‚»‚ës‚­‚Æ‚µ‚Ü‚·‚©I
+ç”»åƒãŒå¤‰ã‚ã‚Šã¾ã—ãŸã€‚
+;ã“ã“ã¾ã§gitã‚³ãƒŸãƒƒãƒˆ
+ä»Šæ—¥ã‚‚ã‹ã£ã“ã„ã„ãªä¿ºã®ãƒžã‚¤ã‚«ãƒ¼ã“ã‚Œã§ã‚‚ã‹ã£ã¦ãã‚‰ã„ã®
+ã‚ˆãŠãŠãŠãŠãŠãŠ
+ãã‚Œã§ã‚‚å‹ã£ã¦ãã‚‰ã„è…¹ãŒæ¸›ã£ãŸã®ã§ãã‚ãã‚è¡Œãã¨ã—ã¾ã™ã‹ï¼
+[macro name="lr"]
+[l]
+[r]
+[endmacro]
